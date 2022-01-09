@@ -1,2 +1,24 @@
-# Practice_Store
-Practice Store featuring: filters by colors, products, etc. OOP/POO, fetching APIs, life cyles. NOT FINISHED YET.
+# catalogue
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
